@@ -18,7 +18,8 @@ SOURCES += \
 RESOURCES += qml.qrc \
     smallsales_qml.qrc \
     smallsales_icons.qrc \
-    smallsales_imagens.qrc
+    smallsales_imagens.qrc \
+    smallsales_componentes.qrc
 
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =

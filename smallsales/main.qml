@@ -10,7 +10,8 @@ Window {
     title: "Vendas"
 
     property string colorBackGround: "#084887"
+    property string colorText: "#084887"
 
-    JPrincipal{
+    JLogin{
     }
 }

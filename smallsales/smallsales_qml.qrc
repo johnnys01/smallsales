@@ -2,5 +2,7 @@
     <qresource prefix="/qml">
         <file alias="JIntroducao.qml">qml/JIntroducao.qml</file>
         <file alias="JPrincipal.qml">qml/JPrincipal.qml</file>
+        <file alias="JLogin.qml">qml/JLogin.qml</file>
+        <file alias="JCadastroUsuario.qml">qml/JCadastroUsuario.qml</file>
     </qresource>
 </RCC>
