@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="JIntroducao.qml">qml/JIntroducao.qml</file>
+        <file alias="JPrincipal.qml">qml/JPrincipal.qml</file>
+    </qresource>
+</RCC>
