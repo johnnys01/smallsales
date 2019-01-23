@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/qml/componentes">
         <file alias="JTextField.qml">qml/componentes/JTextField.qml</file>
+        <file alias="JButton.qml">qml/componentes/JButton.qml</file>
+        <file alias="JLoader.qml">qml/componentes/JLoader.qml</file>
     </qresource>
 </RCC>
